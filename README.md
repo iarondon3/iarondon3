@@ -2,7 +2,7 @@
 <h1 align=>Hi there, I'm Isabella</a> 👋</h1>
 </div>
 
-🎓 Data Analyst with a background on **Business Economist** with over 4 years of experience.
+🎓 Data Analyst with a background on **Business Economics** with over 4 years of experience.
 
 🚀 Expert in translating complex data into **strategic, actionable insights** for data-driven decision-making.
 
