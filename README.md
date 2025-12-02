@@ -8,6 +8,12 @@
 
 💡 My strength lies in looking beyond visualization to interpret the **underlying economic and business significance** of the data.
 
+<p align="left">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-rondon-rojas-/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ia.rondon3@gmail.com)
+</p>
+
 # 👩🏼‍💻Tech Stack:
 
 ## 📊Data Visualization & BI:
@@ -30,7 +36,4 @@
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E4?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Excel (Advanced)](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-## 🌐 Socials:
-Feel free to reach me out, I'm always looking for new challenges!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-rondon-rojas-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ia.rondon3@gmail.com) 
