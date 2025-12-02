@@ -3,19 +3,27 @@
 </div>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/isabella-rondon-rojas-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ia.rondon3@gmail.com) 
 
+# 👩🏼‍💻Tech Stack:
 
-<!--
-**iarondon3/iarondon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊Data Visualization & BI:
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-0052CC?style=for-the-badge&logo=metabase&logoColor=white)
 
-Here are some ideas to get you started:
+## 📄Database & Modeling:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍Data Transformation (ETL):
+![Power Query](https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![KNIME](https://img.shields.io/badge/KNIME-FF5733?style=for-the-badge&logo=knime&logoColor=white)
+![Spoon (Pentaho Data Integration)](https://img.shields.io/badge/PDI_Spoon-00B0F0?style=for-the-badge&logo=apache&logoColor=white)
+
+## 🔧Business Tools:
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E4?style=for-the-badge&logo=salesforce&logoColor=white)
+![Excel (Advanced)](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
