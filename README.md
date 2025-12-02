@@ -2,9 +2,11 @@
 <h1 align="center">Hi there, I'm Isabella</a> 👋</h1>
 </div>
 
+🎓 **Business Economist** with over 4 years of experience in data-focused roles.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/isabella-rondon-rojas-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ia.rondon3@gmail.com) 
+🚀 Expert in translating complex data into **strategic, actionable insights** for data-driven decision-making.
+
+💡 My strength lies in looking beyond visualization to interpret the **underlying economic and business significance** of the data.
 
 # 👩🏼‍💻Tech Stack:
 
@@ -27,3 +29,8 @@
 ## 🔧Business Tools:
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E4?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Excel (Advanced)](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+## 🌐 Socials:
+Feel free to reach me out, I'm always looking for new challenges!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/isabella-rondon-rojas-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ia.rondon3@gmail.com) 
