@@ -1,5 +1,5 @@
-<div align="center">
-<h1 align="center">Hi there, I'm Isabella</a> 👋</h1>
+<div align=>
+<h1 align=>Hi there, I'm Isabella</a> 👋</h1>
 </div>
 
 🎓 **Business Economist** with over 4 years of experience in data-focused roles.
