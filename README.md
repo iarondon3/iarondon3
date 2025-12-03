@@ -32,7 +32,7 @@
 ![KNIME](https://img.shields.io/badge/KNIME-FF5733?style=for-the-badge&logo=knime&logoColor=white)
 ![Spoon (Pentaho Data Integration)](https://img.shields.io/badge/PDI_Spoon-00B0F0?style=for-the-badge&logo=apache&logoColor=white)
 
-## 🔧Business Tools:
+## 💼Business Tools:
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E4?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Excel (Advanced)](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
