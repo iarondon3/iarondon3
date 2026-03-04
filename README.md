@@ -24,8 +24,9 @@
 ### 📊Data Visualization & BI:
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-0052CC?style=for-the-badge&logo=metabase&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-0052CC?style=for-the-badge&logo=metabase&logoColor=white)
+
 
 ### 📄Database & Modeling:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
